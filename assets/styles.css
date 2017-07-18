@@ -1,0 +1,15 @@
+* + * {
+  margin-top: 1.6em;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-height: 100%;
+}
+
+img {
+  max-width: 100%;
+  width: 100%;
+}
