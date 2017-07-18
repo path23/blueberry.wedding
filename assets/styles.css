@@ -11,7 +11,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  max-height: 100vh;
+  height: 101vh;
 }
 
 main > * {
