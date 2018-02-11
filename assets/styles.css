@@ -310,7 +310,7 @@ main {
 }
 
 main > * {
-  flex: 0;
+  flex: 0 0 80vw;
 }
 
 img {
